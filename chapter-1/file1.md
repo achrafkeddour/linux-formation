@@ -5,3 +5,5 @@ and the **kernel** is a the controller of everything that happens on the compute
 **GNU** is a free software operating system , a Unix-like system entirely composed of free software
 
 The ```Linux OS``` that we know today is  which includes both the **Linux kernel and GNU tools** 
+
+| Often the license explicitly says that you may not attempt to reverse engineer ```the machine code``` back to ```source code``` to figure out what it does!
