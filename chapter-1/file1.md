@@ -9,3 +9,5 @@ The ```Linux OS``` that we know today includes both the **Linux kernel and GNU t
 so really , linux is not Unix 
 
 > Often the license explicitly says that you may not attempt to reverse engineer ```the machine code``` back to ```source code``` to figure out what it does!
+
+> People that say their computer runs Linux usually refer to the kernel, tools, and suite of applications that come bundled together in what is referred to as a distribution.
