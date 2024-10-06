@@ -4,7 +4,7 @@ and the **kernel** is a the controller of everything that happens on the compute
 
 **GNU** is a free software operating system , a Unix-like system entirely composed of free software made by Richard Stallman in 1983
 
-The ```Linux OS``` that we know today includes both the **Linux kernel and GNU tools** (this kernel is made by Linus Torvalds)
+The ```Linux OS``` that we know today includes both the **Linux kernel and GNU tools** (this kernel is made by Linus Torvalds in 1991)
 
 so really , linux is not Unix 
 
