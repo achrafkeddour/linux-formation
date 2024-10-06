@@ -13,3 +13,5 @@ so really , linux is not Unix
 > People that say their computer runs Linux usually refer to the kernel, tools, and suite of applications that come bundled together in what is referred to as a distribution.
 
 Take Linux-kernel and the GNU tools, add some user-facing applications like a web browser and an email client, and you have a full Linux system.
+
+we interact with the OS using interfaces (GUI or CLI)
