@@ -7,5 +7,5 @@ Modern operating systems do more than just manage hardware and software.
 The term **operating system** applies to any **software that is booted and controls a device**, whether it's a basic set-top box or a powerful supercomputer.
 
 ---
-Servers generally run as a CLI, which **frees up resources** for the real purpose of the computer: serving information to clients
-Servers typically sit in a rack and share a keyboard and monitor with many other computers (remote access)
+- Servers generally run as a CLI, which **frees up resources** for the real purpose of the computer: serving information to clients
+- Servers typically sit in a rack and share a keyboard and monitor with many other computers (remote access)
