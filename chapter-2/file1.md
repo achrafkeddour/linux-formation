@@ -7,7 +7,7 @@ Modern operating systems do more than just manage hardware and software.
 The term **operating system** applies to any **software that is booted and controls a device**, whether it's a basic set-top box or a powerful supercomputer.
 
 ---
-# Course Summary: Essential Concepts for Specifying Computer Systems
+# Specifying Computer Systems
 
 ## 1. **Role**
 - **Desktop**: 
