@@ -18,7 +18,7 @@ The term **operating system** applies to any **software that is booted and contr
 - **Server**: 
   - Accessed remotely by users or systems (clients).
   - Provides services remotely.
-  - Often runs Command Line Interface (CLI) for better resource management. 
+  - Often runs Command Line Interface (CLI) for better resource management. (liberer les ressources)
   - Typically located in a rack and accessed via shared keyboard/monitor.
 
 ## 2. **Function** 
