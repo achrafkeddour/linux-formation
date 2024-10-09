@@ -71,3 +71,5 @@ The term **operating system** applies to any **software that is booted and contr
   - Reduces upfront costs and helps control long-term expenses.
   
 ---
+
+> sid : the unstable branch of debian operating system 
