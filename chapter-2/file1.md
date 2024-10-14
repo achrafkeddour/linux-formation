@@ -34,7 +34,12 @@ The term **operating system** applies to any **software that is booted and contr
 ### Example:
 - **ubuntu Linux 102.04** is in the **release cycle** until **ubuntu Linux 104.04** comes out.
 - **ubuntu Linux 102.04** stays in the **maintenance cycle** as long as the maintainers provide updates, and once support ends, it reaches **end of life**.
-  
+
+## Summary
+
+- **Release Cycle**: Add new features or significant improvements
+- **Maintenance Cycle**: Fix bugs, apply security patches, maintain stability
+
 ## 4. **Considerations for Upgrades**
 - **Virtualization**: 
   - One physical machine hosts multiple virtual machines (VMs), reducing physical space, power needs, and allowing automation.
