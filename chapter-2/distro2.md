@@ -24,3 +24,16 @@ Another example is **Scientific Linux**, a Red Hat-based distribution used for s
 
 ---
 
+## Android
+**Android**, sponsored by Google, is the world’s most popular Linux-based system, but it's quite different from desktop Linux distributions. It uses the **Dalvik virtual machine** with a Linux kernel to run mobile devices like phones and tablets. However, it doesn’t include traditional Linux software like **GNU** and **Xorg**, making it incompatible with standard desktop Linux systems.
+
+For example, you can’t run Red Hat or Ubuntu apps from the Google Play store, and Android's terminal emulator doesn’t have many typical Linux commands. You can use **BusyBox** with Android to enable some common Linux commands.
+
+## Raspbian
+**Raspbian** is a specialized Linux distribution designed for the **Raspberry Pi**. Its low cost and ease of use make it a favorite in education for learning programming and hardware design. It supports many projects, from environmental monitoring to robotics.
+
+## Linux From Scratch (LFS)
+**Linux From Scratch (LFS)** is more of a learning tool than a full distribution. It provides instructions and source code for building your own custom Linux system from scratch. This is great for users who want to learn how Linux works or need highly customized builds for specific projects.
+
+
+
