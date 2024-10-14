@@ -10,3 +10,17 @@ Since **RHEL** is open source, projects like **CentOS** emerged. CentOS recompil
 Another example is **Scientific Linux**, a Red Hat-based distribution used for scientific purposes. Sponsored by **Fermilab**, it powers applications like particle accelerators, including the **Large Hadron Collider at CERN**.
 
 ---
+
+
+## SUSE
+**SUSE** is a Linux distribution originally based on Slackware. After several ownership changes, it became an independent business in 2018. SUSE Linux Enterprise is a server product with some proprietary code, while openSUSE is a free, fully open-source version similar to CentOS.
+
+## Debian
+**Debian** is a community-driven Linux distribution that promotes the use of open-source software and adherence to standards. Debian created its own package management system based on the **.deb** file format. Unlike Red Hat, which leaves support for non-Intel and AMD platforms to other projects, Debian supports many platforms directly.
+
+**Ubuntu** is one of the most popular Debian-based distributions, created by Canonical. Canonical provides support services for Ubuntu and offers several versions for different use cases, including desktop, server, and specialized applications. Ubuntu also provides **Long-Term Support (LTS)** versions, which are maintained for 3 years on desktops and 5 years on servers, ensuring stability for developers and businesses.
+
+**Linux Mint** is another popular distribution, originally a fork of Ubuntu. It still relies on the **Ubuntu repositories**. Linux Mint is free to use, with different versions available, some of which include proprietary codecs that might have legal restrictions in certain countries.
+
+---
+
