@@ -81,4 +81,6 @@ The term **operating system** applies to any **software that is booted and contr
   
 ---
 
-> sid : the unstable branch of debian operating system 
+> sid : the unstable branch of debian operating system
+
+ The **w** command in Linux is used to display information about users currently logged into the system and their activities. 
