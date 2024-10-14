@@ -30,6 +30,10 @@ The term **operating system** applies to any **software that is booted and contr
 - **Release Cycle**: Periodic updates for operating systems and software.
 - **Maintenance Cycle**: Time during which the vendor supports older versions.
 - In enterprise settings, upgrading software is expensive, so servers are often replaced for performance gains.
+
+### Example:
+- **ubuntu Linux 102.04** is in the **release cycle** until **ubuntu Linux 104.04** comes out.
+- **ubuntu Linux 102.04** stays in the **maintenance cycle** as long as the maintainers provide updates, and once support ends, it reaches **end of life**.
   
 ## 4. **Considerations for Upgrades**
 - **Virtualization**: 
