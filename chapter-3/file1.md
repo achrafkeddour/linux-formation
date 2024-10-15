@@ -1,4 +1,4 @@
-### 3.2 Applications
+## Applications
 
 The kernel of the operating system is like an **air traffic controller** at an airport, and the applications are the airplanes under its control. The kernel:
 - Decides which program gets which blocks of memory.
