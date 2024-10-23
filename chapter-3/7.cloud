@@ -1,0 +1,38 @@
+# The Cloud
+
+The cloud is where we store and access data and applications over a network (today : the internet). You might use the cloud without even realizing it, like when using Google Docs or iCloud.
+
+## What is Cloud Computing?
+
+Cloud computing is the process of moving data and computing power to remote servers, allowing us to access them from anywhere. It’s important for organizations because it lets them manage and store their data without needing to handle physical servers.
+
+### Benefits of Cloud Computing:
+- Access from anywhere with an internet connection.
+- No need to maintain physical servers or infrastructure.
+- Flexibility to scale resources up or down as needed.
+- Delegate IT infrastructure management to third-party providers.
+
+## Cloud Deployment Models
+
+Cloud deployment models define how cloud infrastructure is built, managed, and accessed. There are four (4) main types:
+
+1. **Public Cloud**  
+   - Services are provided over the internet to anyone.
+   - Multiple users (tenants) share resources.
+   - Examples: Amazon Web Services (AWS), Google Cloud.
+
+2. **Private Cloud**  
+   - Cloud infrastructure is dedicated to one organization.
+   - Offers more control and privacy compared to public cloud.
+   - Hosted either on company servers or through managed private cloud providers like IBM or Rackspace.
+
+3. **Community Cloud**  
+   - Shared by several organizations with similar needs or goals.
+   - Higher cost than public cloud but offers more control and security.
+   - Common for organizations with shared interests, like government or healthcare.
+
+4. **Hybrid Cloud**  
+   - A mix of two or more clouds (public, private, or community).
+   - Allows data and applications to move between clouds, offering flexibility.
+   - Organizations can keep sensitive data in a private cloud while using public cloud for other resources.
+
