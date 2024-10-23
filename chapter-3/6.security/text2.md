@@ -25,7 +25,3 @@ When you browse the web, you leave a **digital footprint**. Some of this data is
 - On Linux, you have a built-in firewall called **iptables**.
   - If you’re using **Ubuntu**, try the graphical interface **Gufw** to manage the firewall easily.
   - **iptables** is powerful, but **Gufw** simplifies the process for most users.
-
----
-
-This guide provides the basic steps to keep your Linux system secure, focusing on passwords, data sharing, updates, and firewall protection.
