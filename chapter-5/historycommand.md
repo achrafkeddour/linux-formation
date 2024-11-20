@@ -58,14 +58,14 @@ Desktop Documents Downloads
 
 Use !-<number> to execute a command relative to the end of the history list (e.g., !-2 runs the second-to-last command).
 Example:
-
+```
 sysadmin@localhost:~$ history
     5  date
     6  ls
     7  history
 sysadmin@localhost:~$ !-2
 ls
-
+```
 
 
 ---
