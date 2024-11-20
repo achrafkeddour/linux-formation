@@ -27,13 +27,13 @@ cal 5 2030
 
 Use !! to execute the last command you ran.
 Example:
-
+```
 sysadmin@localhost:~$ date
 Wed Dec 12 04:32:36 UTC 2018
 sysadmin@localhost:~$ !!
 date
 Wed Dec 12 04:32:38 UTC 2018
-
+```
 
 
 ---
@@ -42,14 +42,14 @@ Wed Dec 12 04:32:38 UTC 2018
 
 Use !<command-name> to re-execute the most recent occurrence of a specific command in the history.
 Example:
-
+```
 sysadmin@localhost:~$ ls
 Desktop Documents Downloads
 sysadmin@localhost:~$ cd ..
 sysadmin@localhost:~$ !ls
 ls
 Desktop Documents Downloads
-
+```
 
 
 ---
