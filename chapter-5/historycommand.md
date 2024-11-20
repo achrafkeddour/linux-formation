@@ -11,14 +11,14 @@ Each command in the history list is assigned a number.
 
 Use !<number> to execute a specific command based on its history number.
 Example:
-
+```
 sysadmin@localhost:~$ history
     1  date
     2  ls
     3  cal 5 2030
 sysadmin@localhost:~$ !3
 cal 5 2030
-
+```
 
 
 ---
