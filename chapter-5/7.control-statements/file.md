@@ -75,7 +75,7 @@ A command is considered **successful** if it completes without errors (exit code
 
    #### Output:
    ```
-ls: cannot access /etc/junk: No such file or directory
+   ls: cannot access /etc/junk: No such file or directory
    ```
 
 ---
@@ -96,7 +96,7 @@ The double pipe (`||`) acts as a logical "OR" operator. If the first command run
    ```
    #### Output:
    ```
-ip-down.d  ip-up.d
+   ip-down.d  ip-up.d
    ```
 
 2. The first command fails, so the second command executes:
@@ -105,8 +105,8 @@ ip-down.d  ip-up.d
    ```
    #### Output:
    ```
-ls: cannot access /etc/junk: No such file or directory
-failed
+   ls: cannot access /etc/junk: No such file or directory
+   failed
    ```
 
 ---
