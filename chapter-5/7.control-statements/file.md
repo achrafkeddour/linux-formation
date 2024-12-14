@@ -64,8 +64,8 @@ A command is considered **successful** if it completes without errors (exit code
    
    #### Output:
    ```
-ip-down.d  ip-up.d
-success
+   ip-down.d  ip-up.d
+   success
    ```
 
 2. The first command fails, so the second command does not execute:
