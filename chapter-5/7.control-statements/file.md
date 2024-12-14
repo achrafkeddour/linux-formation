@@ -61,6 +61,7 @@ A command is considered **successful** if it completes without errors (exit code
    ```bash
    ls /etc/ppp && echo success
    ```
+   
    #### Output:
    ```
 ip-down.d  ip-up.d
@@ -71,6 +72,7 @@ success
    ```bash
    ls /etc/junk && echo success
    ```
+
    #### Output:
    ```
 ls: cannot access /etc/junk: No such file or directory
