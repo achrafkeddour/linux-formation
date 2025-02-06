@@ -1,57 +1,55 @@
+**Android**  
+A Linux distribution designed for mobile users. However, it lacks the traditional GNU/Linux packages, making it incompatible with desktop Linux distributions.  
 
+**CentOS**  
+A Linux distribution compatible with Red Hat Enterprise Linux (RHEL), but it does not offer the paid support that Red Hat provides.  
 
-Android
-    A Linux distribution that provides a platform for mobile users but lacks the traditional GNU/Linux packages to make it compatible with desktop Linux distributions.
-  
-CentOS
-    A Linux distribution that is compatible with Red Hat Enterprise Linux but does not offer the paid support that Red Hat does.
-   
-Debian
-    An operating system that uses the Linux kernel. It that promotes the use of open source software and adherence to standards.
-  
-Linux Mint
-    A Linux distribution that is a derivative of Ubuntu and still relies upon the Ubuntu repositories.
- 
-Raspberry Pi
-    A hardware platform used in training for programmers and hardware designers at all levels. Its low cost and ease of use have made it popular with educators.
-   
-Raspbian
-    A specialized Linux distribution optimized to run on Raspberry Pi hardware.
- 
-Red Hat
-    A Linux distribution that introduced Red Hat Package Manager (RPM). The developer formed a company by the same name which specializes in open source software.
-    
-SUSE
-    One of the first comprehensive Linux distributions. It is derived from Slackware which offers many similarities with Red Hat Enterprise Linux.
-  
-Scientific Linux
-    A specific use distribution based on Red Hat. It was designed to enable scientific computing.
+**Debian**  
+An operating system that uses the Linux kernel, promoting open-source software and adherence to standards.  
 
-Ubuntu
-    The most popular Debian derived distribution. It has several different variants for desktop, server, and various specialized applications as well as an LTS version.
-  
-beta
-    A software release that has many new features that haven’t been tested.
-    
-command line interface (CLI)
-    A text based interface in which the user enters commands. Feedback, output and programs are presented in text format only.
- 
-desktop configuration
-    Desktop are preferred if the user interacts with the system directly. Desktop system primarily run a GUI for the ease of use of its user.2.1.1
-   
-graphical user interface (GUI)
-    A visual user interface that allows the user to interact with the system using windows, icons, a cursor, etc.
-    
-long-term support (LTS)
-    Associated with the life cycle of distributions, this feature states that software is supported for 5 years or more.
-   
-maintenance cycles
-    The period of time vendors support older versions of software before not offering any updates.
-    
-openSUSE
-    A Linux distribution that is a completely open, free version of SUSE Linux Enterprise with multiple desktop packages similar to CentOS and Linux Mint.
-  
-stable
-    A software release whose updates have been tested in the field.
-   
+**Linux Mint**  
+A Linux distribution derived from Ubuntu, still relying on Ubuntu repositories.  
 
+**Raspberry Pi**  
+A hardware platform widely used for training programmers and hardware designers at all levels. Its low cost and ease of use have made it popular in education.  
+
+**Raspbian**  
+A specialized Linux distribution optimized for Raspberry Pi hardware.  
+
+**Red Hat**  
+A Linux distribution that introduced the Red Hat Package Manager (RPM). The company formed by the same name specializes in open-source software.  
+
+**SUSE**  
+One of the earliest comprehensive Linux distributions. It is derived from Slackware and shares many similarities with Red Hat Enterprise Linux.  
+
+**Scientific Linux**  
+A distribution based on Red Hat, specifically designed for scientific computing.  
+
+**Ubuntu**  
+The most popular distribution derived from Debian. It offers several variants for desktop, server, and specialized applications, including an LTS version.  
+
+---
+
+**Beta**  
+A software release that includes many new features, but has not undergone sufficient testing.  
+
+**Command Line Interface (CLI)**  
+A text-based interface where the user enters commands. Feedback, output, and programs are presented in text format only.  
+
+**Desktop Configuration**  
+Preferred for systems where users interact directly. Desktop systems primarily run a GUI for ease of use.  
+
+**Graphical User Interface (GUI)**  
+A visual interface that allows users to interact with the system using windows, icons, and a cursor.  
+
+**Long-Term Support (LTS)**  
+A feature associated with the lifecycle of distributions, meaning software is supported for five years or more.  
+
+**Maintenance Cycles**  
+The period during which vendors support older versions of software before ceasing updates.  
+
+**openSUSE**  
+A completely open and free version of SUSE Linux Enterprise, offering multiple desktop packages similar to CentOS and Linux Mint.  
+
+**Stable**  
+A software release that has been thoroughly tested in the field and is considered reliable.  
