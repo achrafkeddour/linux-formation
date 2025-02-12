@@ -1,5 +1,5 @@
 ## BSD
-    An open source license which states that you may redistribute the source software and binaries as long as copyright notices are maintained and there is no implication that the original creator endorses your version. Short for Berkley Software Distribution.
+An open source license which states that you may redistribute the source software and binaries as long as copyright notices are maintained and there is no implication that the original creator endorses your version. Short for Berkley Software Distribution.
  
 ## Creative Commons
     An organization created to address the intentions behind FOSS licenses for non-software entities.
